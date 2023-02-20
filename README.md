@@ -3,6 +3,9 @@
 
   <p align="center">Site criado usando a API de Pokémon (PokéAPI), com JavaScript puro, pegando todos os dados direto da API.</p>
 
+<li>Site: https://muelson.github.io/PokeAPI/</li>
+
+
 ![image](https://user-images.githubusercontent.com/117240964/220183764-650f7627-8928-479d-9b40-87d4060095aa.png)
 
 
