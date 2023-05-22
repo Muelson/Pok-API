@@ -6,28 +6,6 @@
 }
 
 
-/* Scrollbar customizada */
-/* largura */
-::-webkit-scrollbar {
-    width: 8px;
-}
-
-/* Track */
-::-webkit-scrollbar-track {
-    background: linear-gradient(to top, #5c2f2f, #16141b);
-}
-
-/* Handle */
-::-webkit-scrollbar-thumb {
-    background: rgb(241, 195, 195);
-}
-
-:root {
-  scrollbar-color: rgb(210, 210, 210) rgb(46, 54, 69) !important;
-  scrollbar-width: thin !important;
-}
-
-
 body {
     font-family: "Lato", sans-serif;
     background: #16141b;
